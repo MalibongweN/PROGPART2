@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\bin\Debug\CommunityCorner.exe.config
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\bin\Debug\CommunityCorner.exe
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\bin\Debug\CommunityCorner.pdb
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.Form1.resources
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.Properties.Resources.resources
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.Report.resources
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.ViewReports.resources
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.exe
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.pdb
+C:\Users\lab_services_student\Downloads\CommunityCorner\CommunityCorner\obj\Debug\CommunityCorner.EventForm.resources
